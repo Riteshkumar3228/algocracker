@@ -1,2 +1,3 @@
 # algocracker
-this is algorithm project
+this is dsa alogrithm
+
